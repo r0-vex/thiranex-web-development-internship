@@ -77,10 +77,8 @@ No installation, dependencies, or build tools required.
 
 ## 📸 Screenshots
 
-Desktop View
 ![TaskFlow Screenshot](./assets/screenshots/preview.png)
 
-Mobile View
 ![TaskFlow Mobile Screenshot](./assets/screenshots/preview-mobile.png)
 
 ---
